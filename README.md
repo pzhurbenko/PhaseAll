@@ -1,0 +1,2 @@
+# PhaseAll
+Allele phasing tool
