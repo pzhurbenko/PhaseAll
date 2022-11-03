@@ -1,3 +1,4 @@
 # PhaseAll
 Allele phasing tool
-python PhaseAll.py leptophylla_GMO.sam
+
+Run: $ python PhaseAll.py leptophylla_GMO.sam
